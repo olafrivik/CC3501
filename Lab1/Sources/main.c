@@ -68,13 +68,8 @@ int main(void)
 	  word value;
 	  AD1_Measure(TRUE);
 	  AD1_GetValue16(&value);
-	  word time;
-	  Timer_GetTimeMS(&time); // Get time in milliseconds
 	  word light = ((65000.0/12000.0) * (value-60000.0) + 65000.0);
 	  RedPWM_SetRatio16(light);
-
-
-
   }
 
 
