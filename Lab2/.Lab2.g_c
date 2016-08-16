@@ -2,7 +2,7 @@
 <GenerationInfo_G_C>
   <Options>
     <ProjectName>Lab2</ProjectName>
-    <ProjectDirectory>F:\CODE\Lab2\</ProjectDirectory>
+    <ProjectDirectory>F:\CODE\CC3501\Lab2\</ProjectDirectory>
     <ProjectMainModuleName>main</ProjectMainModuleName>
     <DestEventsDirectory>Sources\</DestEventsDirectory>
     <DestDriversSubDirectory>..\Generated_Code\</DestDriversSubDirectory>
